@@ -1,0 +1,27 @@
+/*SPEAKERS PAGE STYLES*/
+  .bio-container {
+    display: block;
+  }
+  .speaker-photo {
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: -40px;
+    margin-left: -15px;
+  }
+  .speaker-photo img {
+    width: 70px;
+    height: 90px;
+  }
+  .speaker-title li {
+    list-style: none;
+    display: block;
+  }
+  .speaker-title li:first-child {
+    font-weight: bold;
+    color: #006599;
+  }
+  .speaker-bio {
+    display: block;
+    margin-top: 40px;
+  }

@@ -1,0 +1,68 @@
+/*TOP CONTENT*/
+  .top-content {
+  margin-top: 200px;
+  }
+
+/*PROGRAM HEADING*/
+  .program-header {
+  border-bottom: none;
+  color: #006599;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: .5px;
+  }
+
+  /*EVENT STYLES*/
+  .time {
+  font-weight:bold;
+  margin-bottom:0px;
+  clear:both;
+  }
+  .title {
+  color: #006599;
+  font-weight:bold;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  clear:both;
+  }
+  /*SPEAKER*/
+  .speaker-container {
+  display: flex;
+  flex-direction: column;
+  }
+  .speaker {
+  margin-left:60px;
+  margin-bottom:15px;
+  float:left;
+  }
+  .speaker li {
+  list-style: none;
+  /* line-height: 1.3em; */
+  }
+  .speaker li:first-child {
+  font-weight: bold;
+  /* color: #006599; */
+  }
+  /*POSITION*/
+  .position {
+    font-style:italic;
+  clear: both;
+  }
+
+  /*DESCRIPTION*/
+  .description {
+  margin-bottom:15px;
+  margin-top:-10px;
+  }
+  .description li {
+  list-style: none;
+  }
+  .description .header {
+  display: inline;
+  font-weight: bold;
+  color: #006599;
+  font-style: italic;
+  }
+  #continuing-list-item {
+  margin-top: -15px;
+  }

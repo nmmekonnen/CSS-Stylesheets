@@ -1,0 +1,79 @@
+  .top-header {
+    margin-top: 220px;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+    text-align: left;
+    color: #006599;
+    margin-bottom: 5px;
+  }
+  .heading {
+    font-size: 18px;
+    font-weight: bold;
+    color:#006599;
+    margin-bottom: 8px;
+    margin-top: 8px;
+  }
+  .sponsor-category {
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    color: #006599;
+  }
+  .benefits {
+    font-weight: bold;
+  }
+  .event-sponsor {
+    color: red;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 15px;
+  }
+  .container-showcase-sponsorship {
+    background-color: #ccebff;
+    padding: 6px;
+  }
+  .showcase-sponsorships {
+    color: #006599;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .showcase-sponsorships li {
+    list-style: none;
+  }
+  .featured-events {
+    color: #006599;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .featured-events li {
+    list-style: none;
+  }
+  .contact-info {
+    display: block;
+    margin-left: 30%;
+    padding-left: none;
+    width: 28%;
+    text-align: center;
+  }
+  .contact-info li {
+    list-style: none;
+  }
+  .contact-info h4 {
+    font-weight: bold;
+    color:#006599;
+    border: none;
+  }
+  .circle-chart img {
+    height: auto;
+    width: vw;
+  }
+  .pie-chart {
+    height: auto;
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 5px;
+  }

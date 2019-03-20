@@ -1,0 +1,50 @@
+
+/*HEADING*/
+  .banner-heading {
+    display: block;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    height: 75px;
+  }
+  .banner-heading li {
+    color: #006599;
+    list-style: none;
+    line-height: 0.5em;
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 20px;
+    text-align: left;
+  }
+  /*BANNER COPY*/
+  .banner-copy {
+    float: left;
+    width: 38%;
+    margin-top: 0px;
+    padding: 0px;
+    line-height: 15px;
+  }
+  .banner-copy li {
+    list-style: none;
+    }
+  .banner-copy li:first-child {
+    font-weight: bold;
+    }
+    #banner-event-title {
+    font-style: italic;
+    }
+  /*NAVIGATION*/
+  .navigation-links {
+    font-weight: bold;
+    float: left;
+    text-decoration: none;
+    margin-top: 85px;
+    margin-bottom: 0px;
+    margin-left: -275px;
+    padding: 0px;
+    }
+  .navigation-links li {
+    display: inline;
+    padding-left: 1em;
+    list-style: none;
+    }

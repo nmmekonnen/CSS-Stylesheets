@@ -1,0 +1,88 @@
+/* HEADER */
+.top-content {
+  margin-top: 150px;
+  margin-bottom: 85px;
+  }
+.top-header li {
+  list-style: none;
+  }
+/* HEADING */
+.heading {
+  border-bottom: none;
+  color: #006599;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: .5px;
+  }
+/* REGISTRATION */
+  .registration-category {
+  width: 600px;
+  display: block 0 auto;
+  margin-bottom: 15px;
+  }
+
+.registration-category table td {
+  border: 1px solid black;
+  box-sizing: border-box;
+  border-collapse: collapse;
+  cellpadding: 0;
+  cellspacing: 0;
+  margin-left: none;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 6px;
+  }
+
+.registration-category .heading {
+  margin-top: 20px;
+  margin-bottom: none;
+  margin-left: none;
+  }
+
+.registration-fee {
+  font-size: 11px;
+  margin-top: none;
+  margin-bottom: 15px;
+  }
+
+/* HOTEL */
+.large-hotel-image {
+  margin-left: -20px;
+  height: 250px;
+  width: 550px;
+  padding-bottom: 30px;
+  }
+.large-hotel-image img {
+  padding-top: 20px;
+  }
+.hotel-copy {
+  margin-bottom: 10px;
+  }
+.hotel-information {
+  display: flex;
+  margin-left: -20px;
+  padding-bottom: none;
+  margin-bottom: -15px;
+  }
+.hotel-image {
+  align-items: center;
+  padding-bottom: none;
+  }
+.hotel-image img {
+  height: 165px;
+  width: 250px;
+  }
+.hotel-location {
+  align-items: center;
+  list-style: none;
+  padding-left: 15px;
+  padding-top: 40px;
+  }
+.hotel-location li:first-child {
+  font-weight: bold;
+  }
+/* RESERVATION */
+.reservation-message {
+  margin-top: -15px;
+  }
